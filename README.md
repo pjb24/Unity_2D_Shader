@@ -35,6 +35,11 @@
      -   **이동/점프**: 키보드 방향키와 스페이스바를 사용합니다.
      -   **피격 효과 테스트**: 게임 화면에서 마우스 왼쪽 버튼을 클릭합니다.
 
+ ## 학습 자료 정보
+  - 영상 제목: 3 Shaders EVERY 2D Dev should know about
+  - 채널: Sasquatch B Studios
+  - 링크: https://youtu.be/tyDYKTgcWws
+
  ## 기술 스택
  -   **엔진**: Unity 6000.0.60f1
  -   **렌더 파이프라인**: Universal Render Pipeline (URP)
